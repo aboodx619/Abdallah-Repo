@@ -3,5 +3,6 @@
 int main()
 {
     std::cout << "First version\n";
+    std::cout << "Second version\n";
     return 0;
 }
