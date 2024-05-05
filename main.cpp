@@ -6,7 +6,7 @@ int main()
     std::cout << "Second version\n";
     std::cout<<"third version\n";
 
-std::cout<<"abdallh version";
+std::cout<<"abdallh versions";
 
     return 0;
 }
